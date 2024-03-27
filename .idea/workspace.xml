@@ -41,8 +41,9 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="84346ef1-3b29-4154-a8ee-067390063eb5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="84346ef1-3b29-4154-a8ee-067390063eb5" name="Changes" comment="Initial commit">
+      <change afterPath="$PROJECT_DIR$/report/exp3/实验三.doc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -132,11 +133,11 @@
       <recent name="com.example.myapplication.week1" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="Z:\A_cslg\android\androidtest\report\exp3" />
       <recent name="Z:\A_cslg\android\androidtest\app\src\main\res\drawable" />
       <recent name="Z:\A_cslg\android\androidtest\app\src\main\res\layout" />
       <recent name="Z:\A_cslg\android\androidtest\app\src\main\res\layout\exp2" />
       <recent name="Z:\A_cslg\android\androidtest\app\src\main\res\layout\exp1" />
-      <recent name="Z:\A_cslg\android\androidtest\app\src\main" />
     </key>
     <key name="android.template.613920127">
       <recent name="com.example.myapplication" />
@@ -491,5 +492,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
   </component>
 </project>
